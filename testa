@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CUBE industries Home</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>
+    <section id= "home-page-links">
+      <img link="CUBEheader.png" alt="CUBE header">
+      <a href="info.html" target = "_self">Information</a>
+      <a href="projects.html" target= "_self">All Projects</a>
+      <a href="relations.html" target="_self">Relations</a>
+    </h1>
+  </body>
+</html>
